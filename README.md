@@ -83,9 +83,5 @@ Run django server
 Afterwards, go to server address (if you are using your local development server just go to ```localhost:8000```) and login to the application.
 If you haven't created an admin account, you can create a user account easily from  ```signup``` page. 
 
-## Contribution
-
-Not all cases are covered, weird bugs may appear. Feel free to open an issue if you spot a bug. 
-
-**Have an organized day! :blush:**
+"This project is a part of a hackathon run by https://www.katomaran.com"
 
